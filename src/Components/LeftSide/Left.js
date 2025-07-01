@@ -76,7 +76,7 @@ const Left = ({profileImg,
           {logOutExit && (
             <div className="logOutExitContainer">
               <button>Add an existing account</button>
-              <Link to="/" style={{width:"100%"}}><button>Log out @vijay98</button></Link>
+              <Link to="/" style={{width:"100%"}}><button>Log out @Harshamay16</button></Link>
             </div>
           )}
       </div>
