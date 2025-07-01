@@ -24,7 +24,7 @@ const InputPost = ({handleSubmit,
                 <input 
                 type="text" 
                 id="i-input" 
-                placeholder="What's in your mind Vijay?"
+                placeholder="What's in your mind Harsha?"
                 required
                 value={body}
                 onChange={(e)=>setBody(e.target.value)}
